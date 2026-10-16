@@ -26,7 +26,7 @@
     {"days":[1,2,3,4,5],"start":"22:00","end":"23:59","program":"Programa palavra de vida","host":"Equipe Pastores","image":""},
     {"days":[6,7],"start":"09:00","end":"11:59","program":"Esquenta","host":"Karol Ishimoto e Léia Oliveira","image":"https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/karol_e_leia.jpeg"},
     {"days":[6,7],"start":"22:00","end":"23:59","program":"Programa palavra de vida","host":"Equipe Pastores","image":""},
-    {"days":[6,7],"start":"12:00","end":"12:59","program":"Semeando a Verdade","host":"Equipe Pastores","image":""}
+    {"days":[6,7],"start":"12:00","end":"12:59","program":"Semeando a Verdade","host":"Pastor Élio Moreira","image":""}
     
   ]
 }

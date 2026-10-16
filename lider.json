@@ -1,1 +1,26 @@
-
+{
+  "station": {
+    "name": "Líder FM",
+    "slogan": "Paraíso do Tocantins",
+    "logo": "https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/logo.png",
+    "stream_url": "https://ssl1.transmissaodigital.com:20045/stream",
+    "stream_type": "shoutcast",
+    "default_host_image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/locutores/padrao.png"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/share/19dqDsp4sF/?mibextid=wwXIfr",
+    "instagram": "https://www.instagram.com/radioliderfmpso?utm_source=qr",
+    "site": "http://redeliderfm.com.br",
+    "phone": "6331423146",
+    "whatsapp": "556336021015"
+  },
+  "schedule": [
+    {"days":[1,2,3,4,5],"start":"00:00","end":"06:00","program":"Madrugada Líder","host":"Programação Musical","image":""},
+    {"days":[1,2,3,4,5],"start":"06:00","end":"09:00","program":"Acorda Tocantins","host":"Nome do Locutor","image":"https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/locutores/locutor1.png"},
+    {"days":[1,2,3,4,5],"start":"09:00","end":"12:00","program":"Manhã Líder","host":"Nome do Locutor","image":"https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/locutores/locutor2.png"},
+    {"days":[1,2,3,4,5],"start":"12:00","end":"14:00","program":"Hora do Almoço","host":"Nome do Locutor","image":""},
+    {"days":[1,2,3,4,5],"start":"14:00","end":"18:00","program":"Tarde Líder","host":"Nome do Locutor","image":""},
+    {"days":[1,2,3,4,5],"start":"18:00","end":"24:00","program":"Noite Líder","host":"Nome do Locutor","image":""},
+    {"days":[6,7],"start":"00:00","end":"24:00","program":"Fim de Semana Líder","host":"Equipe Líder FM","image":""}
+  ]
+}

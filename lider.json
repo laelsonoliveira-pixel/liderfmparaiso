@@ -2,7 +2,7 @@
   "station": {
     "name": "Líder FM",
     "slogan": "Paraíso do Tocantins",
-    "logo": "https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/logo.png",
+    "logo": "https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/logoLider.png",
     "stream_url": "https://ssl1.transmissaodigital.com:20045/stream",
     "stream_type": "shoutcast",
     "default_host_image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/locutores/padrao.png"

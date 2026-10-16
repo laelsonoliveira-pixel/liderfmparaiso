@@ -16,14 +16,14 @@
   },
   "schedule": [
     {"days":[1,2,3,4,5],"start":"00:00","end":"05:29","program":"Madrugada Líder","host":"Madrugada Líder","image":""},
-    {"days":[1,2,3,4,5],"start":"05:30","end":"08:59","program":"Tocantins Rural","host":"Johne Alves","image":"https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/locutores/locutor1.png"},
+    {"days":[1,2,3,4,5],"start":"05:30","end":"08:59","program":"Tocantins Rural","host":"Johne Alves","image":"https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/johne_alves.jpeg"},
     {"days":[1,2,3,4,5],"start":"09:00","end":"10:59","program":"Manhã Líder","host":"Angra Tavares","image":"https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/locutores/locutor2.png"},
     {"days":[1,2,3,4,5],"start":"11:00","end":"11:59","program":"Manhã Líder","host":"Kojak e Angra Tavares","image":"https://raw.githubusercontent.com/laelsonoliveira-pixel/liderfmparaiso/refs/heads/main/locutores/locutor2.png"},
-    {"days":[1,2,3,4,5],"start":"12:00","end":"12:59","program":"Programa Encontro com Deus","host":"Equipe Líder","image":""},
+    {"days":[1,2,3,4,5],"start":"12:00","end":"12:59","program":"Programa Encontro com Deus","host":"Apóstolo Paulo e Partor Maurício","image":""},
     {"days":[1,2,3,4,5],"start":"13:00","end":"15:59","program":"Tarde Líder","host":"Walmir Brassales","image":""},
     {"days":[1,2,3,4,5],"start":"16:00","end":"18:59","program":"Comitiva Sertaneja","host":"Reginaldo Sousa","image":""},
     {"days":[1,2,3,4,5],"start":"20:00","end":"21:59","program":"Noite Líder","host":"Karol Ishmoto","image":""},
-    {"days":[1,2,3,4,5],"start":"22:00","end":"23:59","program":"Igreja Universal","host":"Equipe Líder","image":""},
+    {"days":[1,2,3,4,5],"start":"22:00","end":"23:59","program":"Programa palavra de vida","host":"Equipe Pastores","image":""},
     {"days":[6,7],"start":"09:00","end":"11:59","program":"Esquenta","host":"Karol Ishimoto e Léia Oliveira","image":""}
   ]
 }
